@@ -21,7 +21,7 @@ I'm a passionate programmer with a strong focus on algorithms, data science, and
 
 ## 📫 Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fadi-zoabi/)
-- Portfolio: [Your Portfolio](#)
+- Portfolio: [My Portfolio](https://fadiz911.github.io/portfolio/)
 - Email: fadiz@post.bgu.ac.il
 
 Thanks for stopping by! Feel free to explore my repositories and contribute if you'd like. 😄
