@@ -20,7 +20,7 @@ I'm a passionate programmer with a strong focus on algorithms, data science, and
 - 🏆 Building impactful machine learning models for real-world applications.
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fadi-zoabi/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fadi-zoabi/)
 - Portfolio: [Your Portfolio](#)
 - Email: fadiz@post.bgu.ac.il
 
