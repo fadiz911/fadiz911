@@ -1,28 +1,49 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# 👋 Hi, I'm Fadi Zoabi – Welcome to My GitHub!
 
-I'm a passionate programmer with a strong focus on algorithms, data science, and data engineering. I enjoy solving complex problems, optimizing systems, and learning new technologies to enhance my skills.
+I'm a passionate software engineer and data science enthusiast with a strong foundation in **algorithms**, **machine learning**, and **data engineering**. I love building intelligent systems, solving real-world problems, and continuously learning new technologies.
 
-## 💻 About Me
-- 🧠 I specialize in **algorithms and implementations**, always striving for efficient and scalable solutions.
-- 📊 Exploring the world of **data science** and **data engineering**, from data processing to machine learning.
-- 🏗️ Currently working on a **machine learning project** to boost my skills and land a job as a data scientist.
+---
 
-## 🛠️ Technologies & Tools
-- **Programming Languages:** Python, Java (17)
-- **Machine Learning:** Pandas, Scikit-Learn, TensorFlow, PyTorch
-- **Data Engineering:** SQL, Apache Spark, Hadoop
-- **Testing:** Unit tests with dictionary-based mock representations for memory optimization
-- **Version Control:** Git, GitHub
+## 🧠 About Me
 
-## 📈 Current Projects
-- 🔥 Developing an advanced **trading bot**, implementing multiple trading strategies.
-- 🧪 Writing comprehensive tests that cover basic heuristics and edge cases.
-- 🏆 Building impactful machine learning models for real-world applications.
+- 🎯 Focused on writing efficient, scalable, and maintainable code.
+- 📊 Exploring the full data pipeline — from preprocessing to model deployment.
+- 🤖 Currently developing ML-based tools and working on real-time systems.
+- 🎓 Pursuing a B.Sc. in Software and Information Systems Engineering at Ben-Gurion University (2026).
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python, Java (17), JavaScript, SQL, C++, C#
+
+**Machine Learning & Data Science:**  
+Pandas, Scikit-learn, TensorFlow, PyTorch, NumPy, Matplotlib, Seaborn
+
+**Data Engineering & Tools:**  
+SQL, Apache Spark, Hadoop, Docker, Git, Jupyter, Firebase
+
+**Testing & Best Practices:**  
+Unit testing, dictionary-based mocks, memory-efficient code design
+
+---
+
+## 🚧 Current Projects
+
+- 🔄 **Advanced Trading Bot**: Multi-strategy trading system using technical indicators, real-time data, and backtesting frameworks.
+- 🧪 **ML Model Testing Suite**: High-coverage testing framework for machine learning heuristics and edge cases.
+- 🖼️ **Image Classifier**: Custom CNN in PyTorch classifying over 14k images across 6 categories.
+- 🗨️ **Toxic Comment Classifier**: Flask app using XGBoost to flag harmful online speech.
+
+---
 
 ## 📫 Let's Connect!
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fadi-zoabi/)
-- Portfolio: [My Portfolio](https://fadiz911.github.io/portfolio/)
-- Email: fadiz@post.bgu.ac.il
 
-Thanks for stopping by! Feel free to explore my repositories and contribute if you'd like. 😄
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadi-zoabi/)
+- 🌐 [Portfolio Website](https://fadiz911.github.io/portfolio/)
+- 📬 Email: [fadiz@post.bgu.ac.il](mailto:fadiz@post.bgu.ac.il) , [fadedan@gmail.com](mailto:fadedan@gmail.com)
 
+---
+
+Thanks for visiting! Feel free to explore my repositories — feedback, ideas, and collaborations are always welcome. 😄
