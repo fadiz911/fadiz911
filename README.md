@@ -41,7 +41,7 @@ Unit testing, dictionary-based mocks, memory-efficient code design
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fadi-zoabi/)
-- 🌐 [Portfolio Website](https://fadiz911.github.io/portfolio/)
+- 🌐 [Portfolio Website](https://www.fadizoabi.com/)
 - 📬 Email: [fadiz@post.bgu.ac.il](mailto:fadiz@post.bgu.ac.il) , [fadedan@gmail.com](mailto:fadedan@gmail.com)
 
 ---
