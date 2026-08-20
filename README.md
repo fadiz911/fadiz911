@@ -1,10 +1,10 @@
-<!-- HEADER BANNER -->
+<!-- HEADER HERO BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=180&section=header&text=Fadi%20Zoabi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <!-- TYPING SVG SUBTITLE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Software+%26+Machine+Learning+Engineer;Deep+Learning+%26+Predictive+Telemetry+Pipelines;Distributed+Information+Retrieval+on+GCP;Full-Stack+Architectures+(Node.js+%7C+Vue.js)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Software+%26+Machine+Learning+Engineer;3D+Perception+%26+Computer+Vision+Engines;Deep+Learning+%26+Predictive+Analytics+Pipelines;Distributed+Search+%26+Information+Retrieval+on+GCP;Full-Stack+Architectures+(Node.js+%7C+Vue.js)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,45 +26,58 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,js,nodejs,vue,gcp,firebase,linux,git,docker&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,js,nodejs,vue,gcp,firebase,docker,linux,git&perline=11&theme=dark" />
   </a>
 </div>
 
 ---
 
-### 🚀 High-Signal Engineering
+### 🚀 Featured Engineering & Repositories
 
-* **🏎️ Formula 1 Race Strategy & Telemetry Engine**  
-  Predictive modeling pipeline using a **custom Bi-LSTM network with attention mechanisms** to forecast tire degradation vectors and race pit windows against high-frequency telemetry data.  
-  `PyTorch` `Time-Series` `Python` `Pandas`
+* **[🏎️ Formula 1 Race Strategy Predictor](https://github.com/fadiz911/F1-Race-Strategy-Predictor)**  
+  Predictive modeling pipeline using a **Bi-LSTM architecture with attention mechanisms** to forecast tire degradation curves and optimal pit-stop windows across high-frequency race telemetry datasets.  
+  `PyTorch` `Time-Series` `Python` `Pandas` `Scikit-Learn`
 
-* **🔍 Scalable Unstructured Information Retrieval Engine**  
-  High-throughput distributed search and ranking platform deployed on **Google Cloud Platform (GCP)**, indexing and querying millions of unstructured documents with sub-second retrieval latency.  
-  `GCP` `Search Architecture` `NLP` `Python`
+* **[👁️ SpatialVision-3D](https://github.com/fadiz911/SpatialVision-3D)**  
+  End-to-end 3D perception and spatial localization pipeline for real-time scene understanding, point cloud processing, and metric bounding estimations.  
+  `Python` `PyTorch` `OpenCV` `Computer Vision` `3D Geometry`
 
-* **🎓 Unitutor — Full-Stack Academic Network**  
-  Production-ready peer tutoring network featuring dynamic state synchronization, reactive client architecture, and integrated user engagement analytics.  
-  `Node.js` `Vue.js` `Firebase` `NoSQL`
+* **[🔍 Wikipedia Information Retrieval Engine](https://github.com/fadiz911/Wikipedia-IR-Engine)**  
+  Scalable search platform deployed on **Google Cloud Platform (GCP)**. Indexes unstructured Wikipedia corpus data using inverted indexes, cosine similarity, and BM25 ranking algorithms for low-latency querying.  
+  `GCP` `Search Architecture` `NLP` `Distributed Systems` `Python`
 
----
+* **[🎓 Unitutor Platform](https://github.com/fadiz911/Unitutor)**  
+  Full-stack peer tutoring network built with reactive UI components, user session management, and real-time backend synchronization.  
+  `Node.js` `Vue.js` `Firebase` `NoSQL` `REST API`
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+* **[🛡️ Toxic Comment Classifier](https://github.com/fadiz911/toxic-comment-classification)**  
+  NLP text classification model designed to detect multiple categories of online toxicity, leveraging sequence tokenization, vector embeddings, and evaluation benchmarking.  
+  `NLP` `PyTorch` `Scikit-Learn` `Python`
 
 ---
 
-### 📊 Telemetry & Metrics
+### 📌 Interactive Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="46%" alt="Top Languages" />
+  <a href="https://github.com/fadiz911/SpatialVision-3D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadiz911&repo=SpatialVision-3D&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" width="48%" />
+  </a>
+  <a href="https://github.com/fadiz911/F1-Race-Strategy-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadiz911&repo=F1-Race-Strategy-Predictor&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" width="48%" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/fadiz911/Wikipedia-IR-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadiz911&repo=Wikipedia-IR-Engine&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" width="48%" />
+  </a>
+  <a href="https://github.com/fadiz911/Unitutor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadiz911&repo=Unitutor&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" width="48%" />
+  </a>
 </div>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=80&section=footer" width="100%" />
 </p>
